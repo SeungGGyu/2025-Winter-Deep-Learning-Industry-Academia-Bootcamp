@@ -1,9 +1,11 @@
 # 2025-Winter-Deep-Learning-Industry-Academia-Bootcamp
+
+![image](https://github.com/user-attachments/assets/9f93e86f-05e8-460f-847c-ae341a0def77)
+
 2025 산학협력 실습중심 딥러닝 겨울 부트캠프 - 공과대학장상(🏆2위)
 
 
 ## **1. 경진대회 개요**
-![image](https://github.com/user-attachments/assets/9f93e86f-05e8-460f-847c-ae341a0def77)
 
 ### 📌 주최 및 주관
 - **서울시립대 인공지능혁신융합대학사업단**
